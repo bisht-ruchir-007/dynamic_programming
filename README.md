@@ -1,6 +1,6 @@
 # AlignmentVisualizer
 
-Working demo at: https://valiec.github.io/AlignmentVisualizer
+# Working demo at: https://valiec.github.io/AlignmentVisualizer
 
 Alignment Visualizer is a web app which will show you the dynamic programming matrix for an alignment of two DNA sequences. I developed it in the summer of 2016 as a teaching tool to help people understand how dynamic programming works in DNA sequence alignments.
 
